@@ -1,0 +1,4 @@
+corregit: 
+1. el overlay se abre muy abajo cuando hay notas ya guardadas
+2. si ingreso una palabra muy larga, se escapa del div
+3. 
